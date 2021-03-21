@@ -1,0 +1,29 @@
+body {
+    background-color: blanchedalmond;
+}
+.item {
+    font-size: 18px;
+    font-weight: 500;
+    display: inline-block;
+    
+}
+p:first-child {
+    font-style: italic;
+
+}
+.blue{
+    color: blue;
+}
+.cont3{
+    color: coral;
+}
+.links{
+    background-color: rgb(218, 231, 27);
+}
+
+.bold{
+    font-weight: bold;
+}
+a:visited {
+    color: green;
+  }
